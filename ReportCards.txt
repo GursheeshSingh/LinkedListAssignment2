@@ -1,0 +1,9 @@
+Roll Number: CO16319
+Semester 1
+Physics,CS201,100,33
+Semester 2
+Micro,CS202,100,44
+Semester 3
+Eco,CS203,100,33
+Pan,CS205,100,44
+Groz,APS204,100,33

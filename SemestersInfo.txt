@@ -1,0 +1,8 @@
+1 	 2017 	 1
+Physics,CS201
+2 	 2017 	 1
+Micro,CS202
+3 	 2018 	 3
+Eco,CS203
+Pan,CS205
+Groz,APS204
